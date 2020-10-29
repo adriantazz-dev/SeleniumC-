@@ -9669,11 +9669,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FF_AdrianC\\source\\repos\\Selenium\\NUnitCourse\\NUnitCourse.csproj",
+      "projectUniqueName": "C:\\Users\\FF_AdrianC\\Documents\\GitHub\\SeleniumC-\\NUnitCourse\\NUnitCourse.csproj",
       "projectName": "NUnitCourse",
-      "projectPath": "C:\\Users\\FF_AdrianC\\source\\repos\\Selenium\\NUnitCourse\\NUnitCourse.csproj",
+      "projectPath": "C:\\Users\\FF_AdrianC\\Documents\\GitHub\\SeleniumC-\\NUnitCourse\\NUnitCourse.csproj",
       "packagesPath": "C:\\Users\\FF_AdrianC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FF_AdrianC\\source\\repos\\Selenium\\NUnitCourse\\obj\\",
+      "outputPath": "C:\\Users\\FF_AdrianC\\Documents\\GitHub\\SeleniumC-\\NUnitCourse\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\FF_AdrianC\\AppData\\Roaming\\NuGet\\NuGet.Config",

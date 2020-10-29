@@ -37,6 +37,7 @@ namespace NUnitCourse.BaseClass
             screenshot.SaveAsFile("C:\\Users\\FF_AdrianC\\source\\repos\\Selenium\\NUnitCourse\\ScreenShots\\s1.png", ScreenshotImageFormat.Png);
             extent.Flush();
             driver.Quit();
+
         }
     }
 }

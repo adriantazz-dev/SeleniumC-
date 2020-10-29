@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YKcq1gIcfzOARduS+nMOXN84a/YnrV7GlfZaFvBTDXRfMoYJqRLVMX2nvO6ES1Hb9ZgVV7lo/Fl1MvyNf1oviA==",
+  "dgSpecHash": "zd/off0teBVuZXzqlMbWM/pakzcyWf4poiq33nRriMNEfeZ9lJqHd77iR/63klRutOH0t4mEPrEyCY2iApJyxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\FF_AdrianC\\source\\repos\\Selenium\\NUnitCourse\\NUnitCourse.csproj",
+  "projectFilePath": "C:\\Users\\FF_AdrianC\\Documents\\GitHub\\SeleniumC-\\NUnitCourse\\NUnitCourse.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FF_AdrianC\\.nuget\\packages\\dnsclient\\1.2.0\\dnsclient.1.2.0.nupkg.sha512",
     "C:\\Users\\FF_AdrianC\\.nuget\\packages\\dotnetseleniumextras.pageobjects.core\\3.12.0\\dotnetseleniumextras.pageobjects.core.3.12.0.nupkg.sha512",
