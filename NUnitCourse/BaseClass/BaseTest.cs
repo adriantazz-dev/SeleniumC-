@@ -27,7 +27,7 @@ namespace NUnitCourse.BaseClass
             extent.AttachReporter(htmlReporter);
             //se inicializa el driver
             driver = new ChromeDriver();
-            driver.Url = "https://rahulshettyacademy.com/AutomationPractice/";
+            driver.Url = "https://rahulshettyacademy.com/angularpractice/";
         }
         [OneTimeTearDown] //[TearDown] = Se ejecuta despues de cada test
         public void Close()
